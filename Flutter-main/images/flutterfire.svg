@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1303.57 601">
+    <defs>
+        <linearGradient id="prefix__b" x1="4537.2" y1="-9502.43" x2="5653.21" y2="-8386.43"
+            gradientTransform="matrix(.06 0 0 -.06 -.49 47.11)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#1a237e" stop-opacity=".4" />
+            <stop offset="1" stop-color="#1a237e" stop-opacity="0" />
+        </linearGradient>
+        <clipPath id="prefix__a" transform="translate(-21.37 -83.5)">
+            <path
+                d="M506 360.86l-161.54 161.6L506 684.06H321.4l-161.6-161.6 161.6-161.6zM321.4 83.94l-300 300 92.3 92.36L506 83.94z"
+                fill="none" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#prefix__a)">
+        <path d="M138.49 438.96l92.27 92.33 253.87-253.93h-184.6z" fill="#39cefd" />
+    </g>
+    <g clip-path="url(#prefix__a)">
+        <path d="M300.03.44h184.6L92.33 392.8 0 300.5z" fill="#39cefd" />
+    </g>
+    <g clip-path="url(#prefix__a)">
+        <path d="M230.76 531.29l69.27 69.21h184.6L323.09 438.96z" fill="#03569b" />
+    </g>
+    <g clip-path="url(#prefix__a)">
+        <path d="M389.06 567.35l-44.6-44.89-92.33 92.33z" transform="translate(-21.37 -83.5)" fill="url(#prefix__b)" />
+    </g>
+    <g clip-path="url(#prefix__a)">
+        <path d="M138.48 438.93l92.33-92.33 92.33 92.33-92.33 92.33z" fill="#16b9fd" />
+    </g>
+    <path d="M1154.63 217l-60.14 55.95-55.86-112.56 28.88-64.74c7.51-13.14 19.22-13 26.55 0z" fill="#ffa000" />
+    <path d="M1038.63 160.39l55.8 112.56L869.74 482z" fill="#f57f17" />
+    <path
+        d="M1220.38 131.5c10.74-10.33 21.85-6.8 24.69 7.83l58.5 339.92-193.94 116.38c-6.76 3.76-24.78 5.37-24.78 5.37s-16.41-2-22.66-5.63L869.74 482z"
+        fill="#ffca28" />
+    <path d="M1038.63 160.39L869.75 482l75.22-470c2.77-14.64 11.11-16 18.54-3.13z" fill="#ffa000" />
+    <path d="M666.63 258.63v37h35.57v9.44h-35.57v37.31h-10v-37.32h-35.61v-9.44h35.61v-37z" fill="#2d394a" />
+</svg>
